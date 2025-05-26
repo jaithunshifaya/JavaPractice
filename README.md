@@ -22,4 +22,21 @@ The primary goal of this repository is to:
 3. Compile and run Java files:
 
 javac YourFile.java
+
 java YourFile
+
+## 🌟 Contributing
+Contributions are welcome! Feel free to fork the repo, make changes, and submit pull requests.
+
+## 📃 License
+This repository is open source and available under the MIT License.
+
+## 📬 Contact
+For any inquiries or suggestions:
+
+📧 Email: jaithunshifaya@example.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
+
+
+
