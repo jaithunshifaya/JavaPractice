@@ -28,9 +28,6 @@ java YourFile
 ## 🌟 Contributing
 Contributions are welcome! Feel free to fork the repo, make changes, and submit pull requests.
 
-## 📃 License
-This repository is open source and available under the MIT License.
-
 ## 📬 Contact
 For any inquiries or suggestions:
 
