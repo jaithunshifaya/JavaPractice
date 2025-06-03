@@ -34,7 +34,7 @@ This repository is open source and available under the MIT License.
 ## 📬 Contact
 For any inquiries or suggestions:
 
-📧 Email: jaithunshifaya@gmail.com
+📧 Email: jaithunshifaya@gmail.com-
 
 💼 LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
