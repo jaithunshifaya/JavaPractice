@@ -29,7 +29,8 @@ The primary goal of this repository is to:
 Contributions are welcome! Feel free to fork the repo, make changes, and submit pull requests.
 
 ## 📬 Contact
-For any inquiries or suggestions:
+
+For any inquiries:
 
 📧 Email: jaithunshifaya@gmail.com
 
