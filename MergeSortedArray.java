@@ -18,7 +18,7 @@ public class MergeSortedArray {
 
         int i = 0, j = 0, k = 0;
 
-        // Compare and merge
+       
         while (i < n && j < m) {
             if (arr1[i] <= arr2[j]) {
                 merged[k++] = arr1[i++];
@@ -27,7 +27,7 @@ public class MergeSortedArray {
             }
         }
 
-        // Copy remaining elements
+        
         while (i < n) {
             merged[k++] = arr1[i++];
         }
