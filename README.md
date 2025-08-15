@@ -1,6 +1,6 @@
 # JavaPractice ![Java](https://img.shields.io/badge/Java-Programming-007396?logo=java&style=flat)
 
-Welcome to **JavaPractice**! This repository contains my personal collection of Java programming exercises, sample projects, and tutorials. 
+Welcome to **JavaPractice**! This repository contains my personal collection of Java programming exercises from various platforms.
 
 ## 📚 Purpose
 The primary goal of this repository is to:
